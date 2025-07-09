@@ -5,7 +5,7 @@ const Table = () => {
         <div>
 
             {/* Creating the table for the user details  */}
-            <div className="relative overflow-x-auto">
+            <div className="overflow-hidden relative overflow-x-auto">
                 <table className="  text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
                     <thead className="w-2xl mx-8 text-xs text-gray-700 uppercase bg-gray-50  dark:text-gray-400">
                         <tr>
